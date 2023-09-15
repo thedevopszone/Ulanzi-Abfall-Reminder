@@ -1,3 +1,3 @@
 #!/bin/bash
-cd /home/pi/scripts/Ulanzi-Abfall-Reminder
+cd /home/ubuntu/Ulanzi-Abfall-Reminder
 python3 Ulanzi-Abfall-Reminder.py >/dev/null
